@@ -4,3 +4,6 @@ function printMessage() {
 function done() {
   console.log('Hay its Done');
 }
+function visitMe() {
+  console.log('Hi Jus visit me');
+}
