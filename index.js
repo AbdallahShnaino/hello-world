@@ -10,3 +10,7 @@ function done() {
 function visitMe() {
   console.log('Hi Jus visit me');
 }
+
+function sub(a, b) {
+  return a - b;
+}
